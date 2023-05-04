@@ -1,3 +1,3 @@
 # merge-test
  
-Cambio en rama A
+Cambio en rama B
